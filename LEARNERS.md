@@ -2,6 +2,10 @@
 
 ## Section \#1: St. Louis (November 2017)
 
+[Champion, Mike (@MikeChampion)](https://github.com/MikeChampion/liftoff-assignments)
+
+## Section \#1: St. Louis (November 2017)
+
 ### Andrew Bell's Group
 
 - [Abdi, Mohamed (@warfahas)](https://github.com/warfahas/liftoff-assignments)
