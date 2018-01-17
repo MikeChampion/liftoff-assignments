@@ -1,6 +1,6 @@
 # Liftoff Learners
 
-## Section \#1: St. Louis (November 2017)
+## Section \#2: St. Louis (January 2018)
 
 [Champion, Mike (@MikeChampion)](https://github.com/MikeChampion/liftoff-assignments)
 
