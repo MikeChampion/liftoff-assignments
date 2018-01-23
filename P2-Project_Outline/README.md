@@ -10,15 +10,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 This app will allow the user to access a Players (their own or an opponenets) game collection and compare it to a list of optional filtering categories (Player likes/dislikes, player count, game length/theme/mechanics, etc) to generate a short list of games to take to a game night. 
 
 ### Features
-<strong>User login:</strong> Allows a user to create and save Player data (likes/dislikes, BGG username, etc) to their databasse of opponents to help with better game selection.
-<strong>User login:</strong> Allows a user to create and save Player data (likes/dislikes, BGG username, etc) to their databasse of opponents to help with better game selection.
+<ul>
+  <li>User login: Users will be able to create accounts and access the app. 
+  <li>Create new player: Allows a user to create and save Player data (likes/dislikes, BGG username, etc) to their database of opponents to help with better game selection.
+  <li>API Integration: Imports a players game collection through the BGG API 
+</ul>
+      
 ### Technologies
-Java
-Spring Boot
-MVC
-MySQL
-HTML/CSS/JS
-Bootstrap
+<ul>
+  <li>Java
+  <li>Spring Boot
+  <li>MVC
+  <li>MySQL
+  <li>HTML/CSS/JS
+  <li>Bootstrap
+</ul>
 
 ### What I'll Have to Learn
-How to link to a public API for the search/filter
+How to link to a public API for the main game list and other data. I'll need to learn JS and Bootstrap for the user interface.
