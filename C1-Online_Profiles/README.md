@@ -13,4 +13,4 @@ https://github.com/MikeChampion
 https://www.linkedin.com/in/mike-champion-868b8075/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://github.com/MikeChampion/liftoff-assignments/blob/master/Mike_Champion_Resume.docx.pdf
